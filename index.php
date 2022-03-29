@@ -5,12 +5,10 @@ include_once('Config/env.php');
 // include_once($DB_DIR . 'addcity.php');
 ?>
 
-
-
 <!Doctype html>
 <html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
 <head>
-    <title>Hotel Information from 6 Sites</title>
+    <title></title>
     <meta content="text/html;charset=UTF-8" http-equiv="content-type"/>
     <meta name="description" content="">
     <meta name="author" content="">
